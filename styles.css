@@ -47,12 +47,26 @@ p {
     font-size: 36px;
 }
 
-h1 {
+.price {
     font-size: 80px;
 }
 
+.priceReduction {
+    font-size: 24px;
+}
+
 button {
+    display: flex;
+    flex-direction: row;
     width: 100%;
-    height:
+    height:5%;
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: 900;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
 }
 
